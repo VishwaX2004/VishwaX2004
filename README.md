@@ -34,6 +34,7 @@
 
 ###
 
+![GitHub Snake Animation](https://github.com/vishwax2004/vishwax2004/blob/output/github-snake.svg)
 
 
 ###
