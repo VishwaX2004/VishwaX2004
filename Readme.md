@@ -5,13 +5,15 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 
-<h4 align="center">My name is Vishwa and I'm from Colombo, Sri Lanka</h4>
+<h3 align="center">My name is Vishwa and I'm from Colombo, Sri Lanka</h3>
 
 
 <h1 align="center">About me</h1>
 
 
-<h4 align="center">📚 I'm currently learning : Web Development & Programming<br>🎯 Goals : Software Developer<br>🎲 Fun fact: Call me VISH</h4>
+<h3 align="center">📚 I'm currently learning : Web Development & Programming<br>🎯 Goals : Software Developer<br>🎲 Fun fact: Call me VISH</h3>
+
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n-nethmina00&label=Profile%20views&color=0e75b6&style=flat" alt="n-nethmina00" /> </p>
  <p align="center">
