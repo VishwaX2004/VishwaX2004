@@ -11,7 +11,7 @@
 <h1 align="center">About me</h1>
 
 
-<h3 align="center">📚 I'm currently learning : Web Development & Programming<br>🎯 Goals : Software Developer<br>🎲 Fun fact: Call me VISH</h3>
+<h3 align="center">📚 I'm currently learning : Web Development & Programming<br>🎯 Goals : Software Engineer<br>🎲 Fun fact: Call me VISH</h3>
 
 <br>
 
